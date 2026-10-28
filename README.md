@@ -692,7 +692,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### E-Commerce
 
-- [Seller Fees MCP](https://github.com/NarwhalThePong/seller-fees-mcp) - Compares seller fees across Gumroad, Stripe, PayPal, Etsy and more, so you can see what you keep on each platform. Runs locally via npx, no API key.
+- [Seller Fees MCP](https://github.com/NarwhalThePong/seller-fees-mcp) - Compares seller fees across Gumroad, Stripe, PayPal and Etsy, so you can see what you keep on each platform. Runs locally via npx, no API key.
 - [Shopify](https://github.com/GeLi2001/shopify-mcp) - MCP server for Shopify api, usable on mcp clients such as Anthropic's Claude and Cursor IDE
 - [WooCommerce MCP Server](https://github.com/techspawn/woocommerce-mcp-server) - Manages WooCommerce products, orders, customers, and store data through its REST API.
 
